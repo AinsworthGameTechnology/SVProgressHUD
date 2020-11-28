@@ -1,3 +1,3 @@
-# YYText
+# SVProgressHUD
 
-This repository contains binary-distributed YYText framework for Swift Package Manager.
+This repository contains binary-distributed SVProgressHUD framework for Swift Package Manager.
